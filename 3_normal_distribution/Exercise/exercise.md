@@ -1,3 +1,5 @@
+## Exercise (Normal Distribution and Z Score for Outlier Removal)
+
 You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
 
 1. Remove outliers using percentile technique first. Use [0.001, 0.999] for lower and upper bound percentiles
