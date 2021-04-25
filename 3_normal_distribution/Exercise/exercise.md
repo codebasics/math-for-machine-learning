@@ -6,4 +6,4 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 1. Plot histogram for new dataframe that is generated after step (3). Also plot bell curve on same histogram
 1. On step(2) dataframe, use zscore of 4 to remove outliers. This is quite similar to step (3) and you will get exact same result
 
-[Solution](https://github.com/codebasics/math-for-machine-learning/3_normal_distribution/Exercise/exercise_solution.ipynb)
+[Solution](https://github.com/codebasics/math-for-machine-learning/blob/main/3_normal_distribution/Exercise/exercise_solution.ipynb)
